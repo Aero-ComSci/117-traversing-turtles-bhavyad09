@@ -31,10 +31,12 @@ Step 18
 
 ## Questions about the Activity as you work. 
 ```
-
+How do classes work?
+What does a str and init method mean?
+Do I need multiple functions?
 ```
 #### Description Of The App 
-
+The program   
 `
 # Include a video of the result of the code at speed 0 or Fast. Be sure to make it available for me to see.
 ## For Regrades use the Feedback and @baeztheprog on your commit messages.
