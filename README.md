@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/K3waziIG)
 # Activity 1.1.7
 
 * Utilize this read me to showcase the project.
@@ -30,10 +31,12 @@ Step 18
 
 ## Questions about the Activity as you work. 
 ```
-
+How do classes work?
+What does a str and init method mean?
+Do I need multiple functions?
 ```
 #### Description Of The App 
-
+The program   
 `
 # Include a video of the result of the code at speed 0 or Fast. Be sure to make it available for me to see.
 ## For Regrades use the Feedback and @baeztheprog on your commit messages.
